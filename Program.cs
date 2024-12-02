@@ -9,5 +9,6 @@ using ProgramacaoOrientadaAObjetos;
 //Exemplo01POO.Main(args);
 //Exemplo02POO.Main(args);
 //ExibirCelular.Main(args);
-Carro.Main(args);
-
+//Carro.Main(args);
+//ExibirComputador.Main(args);
+ExemploMetodoComParametroeConstrutor.Main(args);
